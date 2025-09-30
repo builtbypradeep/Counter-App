@@ -1,0 +1,36 @@
+.buttoninc{
+   
+    padding: 5px 5px 5px 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+
+}
+
+.buttondec{
+    
+    padding: 5px 5px 5px 5px;
+    margin-left: 5px;
+    margin-top: 5px;   
+}
+
+.buttonres{
+   
+    padding: 5px 5px 5px 5px;  
+    margin-left: 5px;    
+    margin-top: 5px;
+}
+
+.buttoninc:hover {
+    background-color: lightgreen;
+    cursor: pointer;
+}
+
+.buttondec:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.buttonres:hover {
+    background-color: yellow;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+/* .main{
+    padding: 20px 20px 20px 20px;
+    background-image: url("d:/My Projects/Angular 19/Counter App/Counter-App/src/img/gradient-numerology-background_23-2150051046.avif");
+    background-blend-mode: multiply;
+} */
+
+
+.main {
+    padding: 20px;
+    /* background-image: url("src/img/gradient-numerology-background_23-2150051046.avif"),
+                      linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center; */
+}
